@@ -1,1 +1,12 @@
-# ai_show_talk
+# Resources used in the presentation, interesting links, tools etc.:
+1. GDG 3City website: https://gdg.community.dev/gdg-3city/
+2. ChatGPT: https://chatgpt.com/
+3. Gemini 1.5: https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/#sundar-note
+4. Gemini Nano: https://deepmind.google/technologies/gemini/nano/
+5. Suno: www.suno.com
+6. Google AI Principles: https://ai.google/responsibility/principles/
+7. Make: https://www.make.com/en
+8. Zapier: https://zapier.com/
+9. Google Sheets: https://workspace.google.com/products/sheets/
+10. IFTTT: https://ifttt.com/
+11. “Don’t learn to code” video: https://www.youtube.com/watch?v=vEd-LqBCONg
