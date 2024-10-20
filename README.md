@@ -12,3 +12,4 @@
 11. “Don’t learn to code” video: https://www.youtube.com/watch?v=vEd-LqBCONg
 12. Hello Casto announcement: https://www.kingfisher.com/en/media/news/kingfisher-news/20211/castorama-launches-hello-casto--the-first-diy-voice-assistant-.html
 13. AI powered inbox: https://superhuman.com
+14. Notion - note taking tool, with a lot of possibilities to integrate with other tools, and AI agents: https://www.notion.so
