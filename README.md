@@ -1,4 +1,5 @@
-# I hope you enjoyed my presentation! If you’d like to connect, give feedback, share ideas, or discuss anything from today—let’s catch up on my LinkedIn profile:
+# I hope you enjoyed my presentation! 
+If you’d like to connect, give feedback, share ideas, or discuss anything from today—let’s catch up on my LinkedIn profile:
 www.linkedin.com/in/natalia-nazaruk
 
 # Resources used in the presentation, interesting links, tools etc.:
@@ -20,4 +21,3 @@ www.linkedin.com/in/natalia-nazaruk
 16. The AI Act explained: https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence
 17. Perplexity - AI-powered search engine: https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence
 18. "The AI Show" article: https://medium.com/@natansalda/the-ai-show-dont-just-watch-perform-badc7e983f19
-19. 
